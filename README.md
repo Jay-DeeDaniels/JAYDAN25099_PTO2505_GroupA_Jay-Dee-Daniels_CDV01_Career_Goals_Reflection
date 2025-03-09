@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Jay-Dee Daniels
+- **Date:** 09 March 2025
+- **Current Role/Position:** Software Development Student
+- **Field of Interest:** Web Development / Software Engineering / Prompt Engineer
 
 ### Part 1: Self-Assessment Reflection
 
