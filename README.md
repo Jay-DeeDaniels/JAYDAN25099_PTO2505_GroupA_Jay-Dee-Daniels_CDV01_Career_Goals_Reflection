@@ -27,10 +27,22 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List your current skills and areas of expertise.
     - Identify skills you need to develop or improve.
+
+   * As a student I'm still developing my skills, but I am getting comfortable with HTML, CSS and GitHub.
+   * Skills I'm improving are my problem-solving, debugging and proficiency in programming languages.
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
+
+    * A passion for problem-solving. 
+      Coding languages like HTML (HyperText Markup Language), CSS (Cascading Style Sheets), JavaScript, PhP and Python.
+    * Communication between peers and clients.
+      Creativity (Designing visually appealing and user-friendly websites).
+      Attention to detail.
+      Continuous learning (Staying up-to-date with the latest web development technologies and trends).
+      Being able to work independently, requiring self-motivation and the ability to make decisions. (Also be able to work in a team and do so effectively)
 
 ### Part 2: Career Exploration Insights
 
@@ -38,10 +50,23 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List the industries or roles you have researched.
     - Note any particular areas that piqued your interest.
+
+    * E-commerce (Building and maintaining online stores and shopping platforms).
+      Media (Developing websites for news outlets, streaming services and other media companies).
+      Entertainment (Building websites for movie studios, game developers, and other entertainment companies).
+      Finance (Developing financial websites, online banking platforms, and investment tools).
+      Technology (Developing websites and web applications for tech companies).
+    * Devoloping websites and web applications for tech companies really piqued my interst.
+      Building websites for movie studios and game developers is another area that really stood out to me.
+      
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
     - Identify any gaps or areas for further exploration.
+
+    * Collaboration and Communication (Working with designers, project managers and other developers to achieve project goals).
+      I enjoy building and maintaining websites and exploring new code and struggling with new code and finally getting an answer. It is so satisfying.  
+    * AI is one of the areas I believe we as developers need to learn how to incorporate into our coding process. Or get left behind.
 
 ### Part 3: SMART Career Goals
 
@@ -49,11 +74,23 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
     - Explain the rationale behind each goal.
+
+    * Finish Software Development course.
+      Get a job as a junior software developer or junior software engineer.
+      Finish my specialization course for JavaScript and PHP.
+    * I need the software development course to enter the tech workforce.
+      I got into the workforce now I need to gain experience.
+      After getting an entry level job, now it's time to expand my knowledge and learn more so that I can do more.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
     - Describe how these align with your interests and skills.
 
+    * In 3 too 5 years of experience behind my name I will have my own projects that i will run and a small team i will be leading.
+      I will have profeciency in core technologies, and contribute meaningfully to a development team.
+    * My dream is to work for a tech company and grow in the tech space as Tech is the way of the future.
+      My dream job is to be in the CyberSecurity space and the road to get there is for me to get the basic foundation and experience behind my name. 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
